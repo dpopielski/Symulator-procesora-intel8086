@@ -1,0 +1,10 @@
+C:\Coding\Visual-Studio\intel-8086-symulator\bin\Debug\intel-8086-symulator.exe.config
+C:\Coding\Visual-Studio\intel-8086-symulator\bin\Debug\intel-8086-symulator.exe
+C:\Coding\Visual-Studio\intel-8086-symulator\bin\Debug\intel-8086-symulator.pdb
+C:\Coding\Visual-Studio\intel-8086-symulator\obj\Debug\intel-8086-symulator.csprojAssemblyReference.cache
+C:\Coding\Visual-Studio\intel-8086-symulator\obj\Debug\intel_8086_symulator.form1.resources
+C:\Coding\Visual-Studio\intel-8086-symulator\obj\Debug\intel_8086_symulator.Properties.Resources.resources
+C:\Coding\Visual-Studio\intel-8086-symulator\obj\Debug\intel-8086-symulator.csproj.GenerateResource.cache
+C:\Coding\Visual-Studio\intel-8086-symulator\obj\Debug\intel-8086-symulator.csproj.CoreCompileInputs.cache
+C:\Coding\Visual-Studio\intel-8086-symulator\obj\Debug\intel-8086-symulator.exe
+C:\Coding\Visual-Studio\intel-8086-symulator\obj\Debug\intel-8086-symulator.pdb
